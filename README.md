@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Abbby1007
 
-I want to learn ASCII
+I want to learn:
+<li> ASCII </li>
+<li> Game Development</li>
+
 
 <!---
 Abbby1007/Abbby1007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
