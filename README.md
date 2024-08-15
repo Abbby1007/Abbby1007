@@ -5,6 +5,9 @@ I want to learn:
 <li> Game Development</li>
 <li> Grpahic Design</li>
 <li>Urban Sketching </li>
+<li> Combat Robotics (Rc)</li>
+<li> submarines</li>
+<li> Rockets</li>
 
 
 <!---
