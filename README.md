@@ -8,6 +8,7 @@ I want to learn:
 <li> Combat Robotics (Rc)</li>
 <li> submarines</li>
 <li> Rockets</li>
+<li> Juggle a soccer ball</li>
 
 
 <!---
