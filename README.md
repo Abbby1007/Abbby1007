@@ -1,14 +1,5 @@
 - 👋 Hi, I’m @Abbby1007
 
-I want to learn:
-<li> ASCII </li>
-<li> Game Development</li>
-<li> Grpahic Design</li>
-<li>Urban Sketching </li>
-<li> Combat Robotics (Rc)</li>
-<li> submarines</li>
-<li> Rockets</li>
-<li> Juggle a soccer ball</li>
 
 
 <!---
