@@ -4,7 +4,7 @@
 
 I am trying to learn Web development
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
 
 <!---
 Abbby1007/Abbby1007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
